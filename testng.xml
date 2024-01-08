@@ -5,7 +5,7 @@
         <listener class-name="main.java.utils.SuiteListener"/>
     </listeners>
     <test name="Test Automation">
-        <parameter name="browserName" value="Chrome"/>
+        <parameter name="browserName" value="chrome"/>
         <classes>
             <class name="test.java.LoginTest"/>
         </classes>
